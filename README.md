@@ -1,6 +1,6 @@
 # 📊 AI Job Market 2025 Dashboard
 
-Welcome to the **AI Job Market 2025 Dashboard**, a data-driven analysis of global trends in AI jobs, salaries, experience levels, and remote work. This project showcases data analytics and storytelling using Python, Pandas, and Seaborn — and is built to be featured in a professional data portfolio.
+Welcome to the **AI Job Market 2025 Dashboard**, a data-driven analysis of global trends in AI jobs, salaries, experience levels, and remote work. This project showcases data analytics and storytelling using Python, Pandas, and Seaborn — and is built to be featured in a professional portfolio.
 
 ---
 
