@@ -14,26 +14,6 @@ In this project, we:
 
 ---
 
-## 📁 Folder Structure
-
-AI-Job-Market-2025-Dashboard/
-│
-├── data/ # Raw dataset (.csv)
-│ └── ai_job_dataset.csv
-│
-├── images/ # Saved data visualizations
-│ └── salary_distribution.png
-│ └── job_titles.png
-│
-├── notebooks/ # Main Jupyter Notebook
-│ └── AI_Job_Market_2025_Dashboard.ipynb
-│
-├── .gitignore
-├── README.md
-└── requirements.txt
-
----
-
 ## 🛠️ Technologies Used
 
 - Python 3.10+
@@ -42,3 +22,11 @@ AI-Job-Market-2025-Dashboard/
 - matplotlib
 - seaborn
 
+---
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/a-vaserman/AI-Job-Market-2025-Dashboard.git
+   cd AI-Job-Market-2025-Dashboard
+
+   
